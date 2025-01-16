@@ -1,0 +1,11 @@
+{
+    "config": {
+        "perpetual_word_check": true,
+        "silent": false,
+        "word_treshold": 15 
+    },
+    "steps": [
+        {"tool": "table", "mode": "encrypt", "key1": "", "key2": ""},
+        {"tool": "table", "mode": "encrypt", "key1": "", "key2": ""}
+    ]
+}
